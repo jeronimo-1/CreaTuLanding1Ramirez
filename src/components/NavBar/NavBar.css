@@ -1,0 +1,22 @@
+
+.NameLogo{
+ display:flex;
+ justify-content: center;
+ margin-left: 15px;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.navSeccion2{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-left: 20px;
+    border:  transparent;
+    cursor: pointer;
+    
+}
